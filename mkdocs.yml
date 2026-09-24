@@ -24,6 +24,8 @@ nav:
   - Roadmap:
       - Phases: roadmap/phases.md
       - Gates: roadmap/gates.md
+  - Knowledge:
+      - Usage: knowledge/usage.md
   - State Ledger: _state/ledger.md
 markdown_extensions:
   - admonition

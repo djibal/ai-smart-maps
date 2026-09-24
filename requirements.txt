@@ -3,3 +3,5 @@ mkdocs-mermaid2-plugin
 ftfy
 pytest
 pre-commit
+ollama
+numpy

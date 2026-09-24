@@ -1,5 +1,6 @@
 .venv/
 site/
+index/
 __pycache__/
 *.pyc
 .DS_Store
