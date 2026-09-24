@@ -1,0 +1,18 @@
+site_name: AI-Smart-Maps
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Vision: vision/objectives.md
+  - Architecture: architecture/logical.md
+  - Decisions: architecture/decisions/index.md
+  - Risks: risks/register.md
+  - Phases: phases/index.md
+  - State Ledger: _state/ledger.md
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format

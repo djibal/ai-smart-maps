@@ -1,0 +1,5 @@
+mkdocs-material
+mkdocs-mermaid2-plugin
+ftfy
+pytest
+pre-commit
