@@ -6,7 +6,6 @@ required = [
     "docs/architecture/logical.md",
     "docs/architecture/decisions/index.md",
     "docs/risks/register.md",
-    "docs/phases/index.md",
     "docs/_state/ledger.md",
 ]
 

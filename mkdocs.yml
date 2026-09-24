@@ -9,11 +9,21 @@ nav:
   - Architecture:
       - Logical: architecture/logical.md
       - Trade-offs: architecture/tradeoffs.md
-      - Decisions: architecture/decisions/index.md
+      - Decisions:
+          - Index: architecture/decisions/index.md
+          - ADR-0001 Docs-First: architecture/decisions/0001-docs-first.md
+          - ADR-0002 DTF: architecture/decisions/0002-dtf.md
+          - ADR-0003 MTFL-BR: architecture/decisions/0003-mtfl-br.md
+          - ADR-0004 ZTMA: architecture/decisions/0004-ztma.md
+          - ADR-0005 FARAL: architecture/decisions/0005-faral.md
+          - ADR-0006 TDLA: architecture/decisions/0006-tdla.md
+          - ADR-0007 CAOM: architecture/decisions/0007-caom.md
   - Risks:
       - Assumptions: risks/assumptions.md
       - Register: risks/register.md
-  - Roadmap: roadmap/phases.md
+  - Roadmap:
+      - Phases: roadmap/phases.md
+      - Gates: roadmap/gates.md
   - State Ledger: _state/ledger.md
 markdown_extensions:
   - admonition
