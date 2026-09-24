@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Phase",
+  "type": "object",
+  "required": ["id", "name", "duration_months", "deliverables", "acceptance_criteria"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^P[0-9]+$"},
+    "name": {"type": "string", "minLength": 3},
+    "duration_months": {"type": "integer", "minimum": 0},
+    "deliverables": {"type": "array", "items": {"type": "string"}},
+    "acceptance_criteria": {"type": "array", "items": {"type": "string"}},
+    "gate_decision": {"enum": ["pending", "go", "no-go", "conditional"]}
+  }
+}

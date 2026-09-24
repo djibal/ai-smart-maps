@@ -3,14 +3,21 @@ theme:
   name: material
 nav:
   - Home: index.md
-  - Vision: vision/objectives.md
-  - Architecture: architecture/logical.md
-  - Decisions: architecture/decisions/index.md
-  - Risks: risks/register.md
-  - Phases: phases/index.md
+  - Vision:
+      - Objectives: vision/objectives.md
+      - Constraints: vision/constraints.md
+  - Architecture:
+      - Logical: architecture/logical.md
+      - Trade-offs: architecture/tradeoffs.md
+      - Decisions: architecture/decisions/index.md
+  - Risks:
+      - Assumptions: risks/assumptions.md
+      - Register: risks/register.md
+  - Roadmap: roadmap/phases.md
   - State Ledger: _state/ledger.md
 markdown_extensions:
   - admonition
+  - tables
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid

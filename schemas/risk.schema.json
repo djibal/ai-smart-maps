@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Risk",
+  "type": "object",
+  "required": ["id", "description", "probability", "impact", "mitigation"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^R-[0-9]{3}$"},
+    "description": {"type": "string", "minLength": 5},
+    "probability": {"enum": ["low", "medium", "high"]},
+    "impact": {"enum": ["low", "medium", "high", "critical"]},
+    "mitigation": {"type": "string", "minLength": 5},
+    "owner": {"type": "string"}
+  }
+}

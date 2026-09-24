@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADR",
+  "type": "object",
+  "required": ["id", "title", "status", "context", "decision", "consequences"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^ADR-[0-9]{4}$"},
+    "title": {"type": "string", "minLength": 3},
+    "status": {"enum": ["proposed", "accepted", "rejected", "superseded", "deprecated"]},
+    "date": {"type": "string", "format": "date"},
+    "context": {"type": "string", "minLength": 10},
+    "decision": {"type": "string", "minLength": 10},
+    "consequences": {"type": "array", "items": {"type": "string"}},
+    "supersedes": {"type": "string", "pattern": "^ADR-[0-9]{4}$"},
+    "superseded_by": {"type": "string", "pattern": "^ADR-[0-9]{4}$"}
+  }
+}
