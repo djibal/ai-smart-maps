@@ -14,7 +14,7 @@ OUT = Path("index")
 EMBED_MODEL = "nomic-embed-text"
 GEN_MODEL = "llama3.2:3b"
 TOP_K = 5
-MIN_SIM = 0.35
+MIN_SIM = 0.30
 
 SYSTEM = (
     "You are a documentation assistant for the AI-Smart-Maps project. "
