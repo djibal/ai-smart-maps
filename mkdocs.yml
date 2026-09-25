@@ -18,6 +18,7 @@ nav:
           - ADR-0005 FARAL: architecture/decisions/0005-faral.md
           - ADR-0006 TDLA: architecture/decisions/0006-tdla.md
           - ADR-0007 CAOM: architecture/decisions/0007-caom.md
+          - ADR-0008 Specialized Scorer: architecture/decisions/0008-specialized-on-device-scorer.md
   - Risks:
       - Assumptions: risks/assumptions.md
       - Register: risks/register.md
