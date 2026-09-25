@@ -20,6 +20,7 @@ nav:
           - ADR-0007 CAOM: architecture/decisions/0007-caom.md
           - ADR-0008 Specialized Scorer: architecture/decisions/0008-specialized-on-device-scorer.md
           - ADR-0009 A1 Passed: architecture/decisions/0009-a1-on-device-scorer-pass.md
+          - ADR-0010 A2 Passed: architecture/decisions/0010-a2-federated-learning-pass.md
   - Risks:
       - Assumptions: risks/assumptions.md
       - Register: risks/register.md
