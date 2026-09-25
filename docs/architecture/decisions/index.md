@@ -12,5 +12,6 @@
 | ADR-0008 | Specialized On-Device Scorer, Not an LLM | accepted |
 | ADR-0009 | A1 Passed — On-Device Scorer Within 3pp of Cloud | accepted |
 | ADR-0010 | A2 Passed — Federated Learning Converges, Krum Withstands 30% Byzantine | accepted |
+| ADR-0011 | A4 FAIL — Pure P2P BLE Cannot Deliver Sub-100ms at Urban Density | accepted |
 
 Format: `NNNN-title.md`. One decision per file.

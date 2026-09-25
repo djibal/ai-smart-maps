@@ -3,7 +3,7 @@
 | Risk | Probability | Impact | Mitigation | Owner |
 |------|------------|--------|------------|-------|
 | On-device AI quality gap | High | High | Hybrid fallback; quality SLOs | AI Lead |
-| Mesh density insufficient | High | Medium | Single-user value; seeding | Product |
+| Mesh density insufficient | **Confirmed** | **High** | Civic beacons (ADR-0011) or revise O6 | Product |
 | Federated learning poisoning | Medium | High | Byzantine resistance; canaries | Security |
 | Battery drain complaints | Medium | High | Adaptive duty cycling; user control | Mobile Lead |
 | Regulatory blocking | Low | High | Modular compliance; legal review | Legal |
