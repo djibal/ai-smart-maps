@@ -13,5 +13,6 @@
 | ADR-0009 | A1 Passed — On-Device Scorer Within 3pp of Cloud | accepted |
 | ADR-0010 | A2 Passed — Federated Learning Converges, Krum Withstands 30% Byzantine | accepted |
 | ADR-0011 | A4 FAIL — Pure P2P BLE Cannot Deliver Sub-100ms at Urban Density | accepted |
+| ADR-0012 | A4-v2 Conditional PASS — Civic Beacons Fix the Mesh at 50/km² | accepted |
 
 Format: `NNNN-title.md`. One decision per file.
