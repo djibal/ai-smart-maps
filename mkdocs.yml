@@ -23,6 +23,7 @@ nav:
           - ADR-0010 A2 Passed: architecture/decisions/0010-a2-federated-learning-pass.md
           - ADR-0011 A4 Failed: architecture/decisions/0011-a4-mesh-density-fail.md
           - ADR-0012 A4-v2 Civic Beacons: architecture/decisions/0012-a4-v2-civic-beacons.md
+          - ADR-0013 A4-v3 Attenuation: architecture/decisions/0013-a4-v3-attenuation-fail.md
   - Risks:
       - Assumptions: risks/assumptions.md
       - Register: risks/register.md
