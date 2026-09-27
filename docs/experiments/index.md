@@ -8,6 +8,7 @@ here for publication on the live site.
 |---|---|---|---|
 | [A1](A1-report.md) | On-device AI within 5% of cloud? | PASS (1.0-1.4pp delta) | [ADR-0009](../architecture/decisions/0009-a1-on-device-scorer-pass.md) |
 | [A2](A2-report.md) | FL converges + Byzantine resistance? | PASS (Krum, trimmed mean, trim >= f/n) | [ADR-0010](../architecture/decisions/0010-a2-federated-learning-pass.md) |
+| [A3](A3-report.md) | Byzantine-fault-tolerant community reports? | PASS (99.8% under 30% invert) | [ADR-0015](../architecture/decisions/0015-a3-community-reports-pass.md) |
 | [A4](A4-report.md) | Pure P2P BLE mesh, sub-100ms? | FAIL (percolation below ~38m radius) | [ADR-0011](../architecture/decisions/0011-a4-mesh-density-fail.md) |
 | [A4-v2](A4-v2-report.md) | Do civic beacons fix the mesh? | PASS at 50/km2, 4.7ms margin | [ADR-0012](../architecture/decisions/0012-a4-v2-civic-beacons.md) |
 | [A4-v3](A4-v3-report.md) | Does the margin survive attenuation? | FAIL (any attenuation breaks percolation) | [ADR-0013](../architecture/decisions/0013-a4-v3-attenuation-fail.md) |

@@ -25,6 +25,7 @@ nav:
           - ADR-0012 A4-v2 Civic Beacons: architecture/decisions/0012-a4-v2-civic-beacons.md
           - ADR-0013 A4-v3 Attenuation: architecture/decisions/0013-a4-v3-attenuation-fail.md
           - ADR-0014 Revise O6: architecture/decisions/0014-revise-o6-latency.md
+          - ADR-0015 A3 Community Reports: architecture/decisions/0015-a3-community-reports-pass.md
   - Risks:
       - Assumptions: risks/assumptions.md
       - Register: risks/register.md
@@ -37,6 +38,7 @@ nav:
       - Index: experiments/index.md
       - A1: experiments/A1-report.md
       - A2: experiments/A2-report.md
+      - A3: experiments/A3-report.md
       - A4: experiments/A4-report.md
       - A4-v2: experiments/A4-v2-report.md
       - A4-v3: experiments/A4-v3-report.md
