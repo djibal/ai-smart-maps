@@ -15,5 +15,6 @@
 | ADR-0011 | A4 FAIL — Pure P2P BLE Cannot Deliver Sub-100ms at Urban Density | accepted |
 | ADR-0012 | A4-v2 Conditional PASS — Civic Beacons Fix the Mesh at 50/km² | accepted |
 | ADR-0013 | A4-v3 FAIL — A4-v2 PASS Does Not Survive Urban Attenuation | accepted |
+| ADR-0014 | Revise O6 from Sub-100ms to Sub-500ms | accepted |
 
 Format: `NNNN-title.md`. One decision per file.

@@ -21,3 +21,14 @@
 - A9: competitive moat — not yet tested (business)
 
 Next: A4-v2 with civic beacons, OR pause.
+
+## Experiment Track Complete (2026-09-27)
+
+- A1: on-device scorer within 3pp of cloud — PASS (ADR-0009)
+- A2: federated learning converges, Krum withstands 30% Byzantine — PASS (ADR-0010)
+- A4: pure P2P BLE cannot deliver sub-100ms at urban density — FAIL (ADR-0011)
+- A4-v2: civic beacons fix the mesh at 50/km2, ideal conditions — PASS (ADR-0012)
+- A4-v3: realistic urban attenuation breaks A4-v2 — FAIL (ADR-0013)
+- O6 revised from sub-100ms to sub-500ms (ADR-0014)
+
+Next: hardware pilot in one neighborhood to measure real BLE attenuation.
