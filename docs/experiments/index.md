@@ -9,6 +9,7 @@ here for publication on the live site.
 | [A1](A1-report.md) | On-device AI within 5% of cloud? | PASS (1.0-1.4pp delta) | [ADR-0009](../architecture/decisions/0009-a1-on-device-scorer-pass.md) |
 | [A2](A2-report.md) | FL converges + Byzantine resistance? | PASS (Krum, trimmed mean, trim >= f/n) | [ADR-0010](../architecture/decisions/0010-a2-federated-learning-pass.md) |
 | [A3](A3-report.md) | Byzantine-fault-tolerant community reports? | PASS (99.8% under 30% invert) | [ADR-0015](../architecture/decisions/0015-a3-community-reports-pass.md) |
+| [FARAL](FARAL-report.md) | Routing agnostic to map format? | STRONG PASS (zero router changes across 4 adapters) | [ADR-0017](../architecture/decisions/0017-faral-format-agnostic-routing-pass.md) |
 | [A6](A6-report.md) | OSM freshness closed by AI change detection? | PARTIAL PASS (71.6% within 90d) | [ADR-0016](../architecture/decisions/0016-a6-osm-freshness-partial-pass.md) |
 | [A4](A4-report.md) | Pure P2P BLE mesh, sub-100ms? | FAIL (percolation below ~38m radius) | [ADR-0011](../architecture/decisions/0011-a4-mesh-density-fail.md) |
 | [A4-v2](A4-v2-report.md) | Do civic beacons fix the mesh? | PASS at 50/km2, 4.7ms margin | [ADR-0012](../architecture/decisions/0012-a4-v2-civic-beacons.md) |

@@ -17,6 +17,7 @@
 
 - A1: on-device scorer within 3pp of cloud — PASS (ADR-0009)
 - A2: federated learning converges, Krum withstands 30% Byzantine — PASS (ADR-0010)
+- A3: Byzantine-fault-tolerant community reports — PASS (ADR-0015)
 - A4: pure P2P BLE cannot deliver sub-100ms at urban density — FAIL (ADR-0011)
 - A9: competitive moat — not yet tested (business)
 
