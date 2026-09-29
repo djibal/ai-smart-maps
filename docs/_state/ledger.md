@@ -32,3 +32,9 @@ Next: A4-v2 with civic beacons, OR pause.
 - O6 revised from sub-100ms to sub-500ms (ADR-0014)
 
 Next: hardware pilot in one neighborhood to measure real BLE attenuation.
+
+## Canonical Location
+
+- Docs repo: ~/Projects/AI-Smart-Maps/ai-smart-maps
+- Experiments repo: ~/Projects/AI-Smart-Maps/ai-smart-maps-a1
+- Migrated 2026-09-29 from ~/ to ~/Projects/AI-Smart-Maps/
