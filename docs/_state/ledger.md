@@ -38,3 +38,7 @@ Next: hardware pilot in one neighborhood to measure real BLE attenuation.
 - Docs repo: ~/Projects/AI-Smart-Maps/ai-smart-maps
 - Experiments repo: ~/Projects/AI-Smart-Maps/ai-smart-maps-a1
 - Migrated 2026-09-29 from ~/ to ~/Projects/AI-Smart-Maps/
+
+## Experiment Additions
+
+- A6: OSM freshness closed by AI change detection? — PARTIAL PASS (ADR-0016). 71.6% of changes detected within 90 days; ~28% tail requires commercial fallback via FARAL.

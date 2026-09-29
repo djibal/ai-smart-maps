@@ -17,5 +17,6 @@
 | ADR-0013 | A4-v3 FAIL — A4-v2 PASS Does Not Survive Urban Attenuation | accepted |
 | ADR-0014 | Revise O6 from Sub-100ms to Sub-500ms | accepted |
 | ADR-0015 | A3 PASS — Reputation-Weighted Aggregation for Community Reports | accepted |
+| ADR-0016 | A6 PARTIAL PASS — AI Closes Most of OSM Freshness Gap, Commercial Fallback Required | accepted |
 
 Format: `NNNN-title.md`. One decision per file.
