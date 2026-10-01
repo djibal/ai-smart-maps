@@ -16,6 +16,7 @@ required = [
     "docs/experiments/A3-report.md",
     "docs/experiments/A6-report.md",
     "docs/experiments/FARAL-report.md",
+    "docs/experiments/TDLA-report.md",
     "docs/experiments/A4-report.md",
     "docs/experiments/A4-v2-report.md",
     "docs/experiments/A4-v3-report.md",

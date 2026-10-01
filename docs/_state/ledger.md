@@ -43,3 +43,4 @@ Next: hardware pilot in one neighborhood to measure real BLE attenuation.
 ## Experiment Additions
 
 - A6: OSM freshness closed by AI change detection? — PARTIAL PASS (ADR-0016). 71.6% of changes detected within 90 days; ~28% tail requires commercial fallback via FARAL.
+- TDLA: temporal data lifecycle — STRONG PASS (ADR-0018). Four-tier mechanism validated; magnitude limited to ~260 MB for the slice tested.

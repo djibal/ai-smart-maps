@@ -19,5 +19,6 @@
 | ADR-0015 | A3 PASS — Reputation-Weighted Aggregation for Community Reports | accepted |
 | ADR-0016 | A6 PARTIAL PASS — AI Closes Most of OSM Freshness Gap, Commercial Fallback Required | accepted |
 | ADR-0017 | FARAL STRONG PASS — Format-Agnostic Routing Proven | accepted |
+| ADR-0018 | TDLA STRONG PASS — Tier Mechanism Validated, Magnitude Scope Limited | accepted |
 
 Format: `NNNN-title.md`. One decision per file.
